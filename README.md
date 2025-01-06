@@ -1,3 +1,3 @@
 ## Simple Physics Simulation
 
-Will compare with future projects
+Will compare with future projects. I don't think I got the physics right...
